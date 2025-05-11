@@ -2,7 +2,17 @@
 This is a simple, elegant Task Manager web application built with HTML, CSS, and JavaScript. It allows users to create, manage, and organize tasks with a clean and responsive interface.
 
 ## Live Demo
-You can try the application live at: Task Manager Demo
+You can access the live demo of this Task Manager application by visiting: https://68204620b343af6bac8d7106--heartfelt-sorbet-420822.netlify.app/
+
+### Using the Demo
+1. Visit the Link : Click on the link above or copy and paste it into your web browser
+2. Create Tasks : Use the input field at the top to add new tasks
+3. Manage Categories : Select from predefined categories (Work, Personal, Shopping, Health)
+4. Filter Tasks : Use the category filters to view specific types of tasks
+5. Complete Tasks : Click the checkbox next to a task to mark it as completed
+6. Delete Tasks : Remove tasks you no longer need with the delete button
+7. Track Progress : See how many tasks remain at the bottom of the page
+The demo provides full functionality without requiring any installation or setup. It's a great way to test the application before downloading or implementing it yourself.
 
 ## Features
 - Create and manage tasks
@@ -16,29 +26,6 @@ You can try the application live at: Task Manager Demo
 - Search functionality
 - Task notes
 - Due date tracking
-## How to Use
-### Getting Started
-1. Clone or download this repository to your local machine
-2. Open index.html in your web browser
-3. Start managing your tasks!
-### Adding Tasks
-1. Type your task in the input field at the top
-2. Click the "Add Task" button or press Enter
-3. Your new task will appear in the task list
-### Managing Tasks
-- Complete a task : Click the checkbox next to a task
-- Delete a task : Click the delete (trash) icon next to a task
-- Filter tasks : Use the filter buttons (All, Active, Completed) to view different task sets
-- Clear completed tasks : Click the "Clear Completed" button at the bottom
-### Categories
-The application supports task categorization:
-
-- Assign categories to tasks (Work, Personal, Shopping, Health)
-- Filter tasks by category
-- Add new categories as needed
-### Search
-Use the search bar to quickly find specific tasks by keywords.
-
 ## Project Structure
 - index.html - The main HTML structure
 - styles.css - All styling for the application
@@ -50,14 +37,6 @@ This application works on all modern browsers including:
 - Firefox
 - Safari
 - Edge
-## Local Development
-To modify or enhance this application:
-
-1. Edit the HTML in index.html to change the structure
-2. Modify styles.css to update the appearance
-3. Edit script.js to change the functionality
-No build tools or dependencies are required - this is a pure HTML, CSS, and JavaScript application.
-
 ## License
 Feel free to use and modify this code for personal or commercial projects.
 
